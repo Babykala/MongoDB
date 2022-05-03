@@ -1,0 +1,385 @@
+users:
+
+[{"id":"1",
+"firstname":"Babykala",
+"lastname":"Muthu",
+"date_of_birth":"18-jul-2000",
+"address":"chennai",
+"email_id":"babykala@gmail.com",
+"phone_no":"9876543210",
+"qualification":"M.E",
+"working_status":"no",
+"course_name":"full stack",
+"mentor":"mentor 1",
+"placed_status":"yes"},
+
+{"id":"2",
+"firstname":"Vinosh",
+"lastname":"Mani",
+"date_of_birth":"08-dec-1990",
+"address":"chennai",
+"email_id":"vinsoh@gmail.com",
+"phone_no":"9334543210",
+"qualification":"M.Tech",
+"working_status":"yes",
+"course_name":"Data science",
+"mentor":"mentor 2",
+"placed_status":"yes"},
+
+{"id":"3",
+"firstname":"Divya",
+"lastname":"Sivakumar",
+"date_of_birth":"03-dec-1992",
+"address":"bangalore",
+"email_id":"divy@gmail.com",
+"phone_no":"9600554488",
+"qualification":"B.E",
+"working_status":"yes",
+"course_name":"full stack",
+"mentor":"mentor 3",
+"placed_status":"yes"},
+
+{"id":"4",
+"firstname":"Mani",
+"lastname":"Muthu",
+"date_of_birth":"10-jun-1993",
+"address":"bangalore",
+"email_id":"mani@gmail.com",
+"phone_no":"9600359944",
+"qualification":"M.E",
+"working_status":"yes",
+"course_name":"cloud computing",
+"mentor":"mentor 4",
+"placed_status":"no"},
+
+{"id":"5",
+"firstname":"Devi",
+"lastname":"Kumar",
+"date_of_birth":"03-jan-1994",
+"address":"coimbatore",
+"email_id":"devi@gmail.com",
+"phone_no":"9600554466",
+"qualification":"B.Sc",
+"working_status":"no",
+"course_name":"full stack",
+"mentor":"mentor 1",
+"placed_status":"yes"},
+{"firstname":"firstname 6","lastname":"lastname 6","date_of_birth":1651023193,"address":"address 6","email_id":"email_id 6","phone_no":19,"qualification":"qualification 6","working_status":"working_status 6","course_name":"course_name 6","mentor":"mentor 5","placed_status":"yes","id":"6"},
+{"firstname":"firstname 7","lastname":"lastname 7","date_of_birth":1651023133,"address":"address 7","email_id":"email_id 7","phone_no":92,"qualification":"qualification 7","working_status":"working_status 7","course_name":"course_name 7","mentor":"mentor 1","placed_status":"no","id":"7"},
+{"firstname":"firstname 8","lastname":"lastname 8","date_of_birth":1651023073,"address":"address 8","email_id":"email_id 8","phone_no":62,"qualification":"qualification 8","working_status":"working_status 8","course_name":"course_name 8","mentor":"mentor 2","placed_status":"no","id":"8"},
+{"firstname":"firstname 9","lastname":"lastname 9","date_of_birth":1651023013,"address":"address 9","email_id":"email_id 9","phone_no":16,"qualification":"qualification 9","working_status":"working_status 9","course_name":"course_name 9","mentor":"mentor 3","placed_status":"no","id":"9"},
+{"firstname":"firstname 10","lastname":"lastname 10","date_of_birth":1651022953,"address":"address 10","email_id":"email_id 10","phone_no":34,"qualification":"qualification 10","working_status":"working_status 10","course_name":"course_name 10","mentor":"mentor 4","placed_status":"no","id":"10"},
+{"firstname":"firstname 11","lastname":"lastname 11","date_of_birth":1651022893,"address":"address 11","email_id":"email_id 11","phone_no":69,"qualification":"qualification 11","working_status":"working_status 11","course_name":"course_name 11","mentor":"mentor 3","placed_status":"no","id":"11"},
+{"firstname":"firstname 12","lastname":"lastname 12","date_of_birth":1651022833,"address":"address 12","email_id":"email_id 12","phone_no":6,"qualification":"qualification 12","working_status":"working_status 12","course_name":"course_name 12","mentor":"mentor 2","placed_status":"no","id":"12"},
+{"firstname":"firstname 13","lastname":"lastname 13","date_of_birth":1651022773,"address":"address 13","email_id":"email_id 13","phone_no":6,"qualification":"qualification 13","working_status":"working_status 13","course_name":"course_name 13","mentor":"mentor 3","placed_status":"yes","id":"13"},
+{"firstname":"firstname 14","lastname":"lastname 14","date_of_birth":1651022713,"address":"address 14","email_id":"email_id 14","phone_no":45,"qualification":"qualification 14","working_status":"working_status 14","course_name":"course_name 14","mentor":"mentor 4","placed_status":"no","id":"14"},
+{"firstname":"firstname 15","lastname":"lastname 15","date_of_birth":1651022653,"address":"address 15","email_id":"email_id 15","phone_no":51,"qualification":"qualification 15","working_status":"working_status 15","course_name":"course_name 15","mentor":"mentor 5","placed_status":"no","id":"15"},
+{"firstname":"firstname 16","lastname":"lastname 16","date_of_birth":1651022593,"address":"address 16","email_id":"email_id 16","phone_no":43,"qualification":"qualification 16","working_status":"working_status 16","course_name":"course_name 16","mentor":"mentor 1","placed_status":"yes","id":"16"},
+{"firstname":"firstname 17","lastname":"lastname 17","date_of_birth":1651022533,"address":"address 17","email_id":"email_id 17","phone_no":79,"qualification":"qualification 17","working_status":"working_status 17","course_name":"course_name 17","mentor":"mentor 7","placed_status":"no","id":"17"},
+{"firstname":"firstname 18","lastname":"lastname 18","date_of_birth":1651022473,"address":"address 18","email_id":"email_id 18","phone_no":25,"qualification":"qualification 18","working_status":"working_status 18","course_name":"course_name 18","mentor":"mentor 8","placed_status":"yes","id":"18"},
+{"firstname":"firstname 19","lastname":"lastname 19","date_of_birth":1651022413,"address":"address 19","email_id":"email_id 19","phone_no":24,"qualification":"qualification 19","working_status":"working_status 19","course_name":"course_name 19","mentor":"mentor 9","placed_status":"no","id":"19"},
+{"firstname":"firstname 20","lastname":"lastname 20","date_of_birth":1651022353,"address":"address 20","email_id":"email_id 20","phone_no":48,"qualification":"qualification 20","working_status":"working_status 20","course_name":"course_name 20","mentor":"mentor 10","placed_status":"no","id":"20"},
+{"firstname":"firstname 21","lastname":"lastname 21","date_of_birth":1651022293,"address":"address 21","email_id":"email_id 21","phone_no":78,"qualification":"qualification 21","working_status":"working_status 21","course_name":"course_name 21","mentor":"mentor 6","placed_status":"no","id":"21"},
+{"firstname":"firstname 22","lastname":"lastname 22","date_of_birth":1651022233,"address":"address 22","email_id":"email_id 22","phone_no":21,"qualification":"qualification 22","working_status":"working_status 22","course_name":"course_name 22","mentor":"mentor 2","placed_status":"yes","id":"22"},
+{"firstname":"firstname 23","lastname":"lastname 23","date_of_birth":1651022173,"address":"address 23","email_id":"email_id 23","phone_no":1,"qualification":"qualification 23","working_status":"working_status 23","course_name":"course_name 23","mentor":"mentor 3","placed_status":"no","id":"23"},
+{"firstname":"firstname 24","lastname":"lastname 24","date_of_birth":1651022113,"address":"address 24","email_id":"email_id 24","phone_no":0,"qualification":"qualification 24","working_status":"working_status 24","course_name":"course_name 24","mentor":"mentor 4","placed_status":"no","id":"24"},
+{"firstname":"firstname 25","lastname":"lastname 25","date_of_birth":1651022053,"address":"address 25","email_id":"email_id 25","phone_no":39,"qualification":"qualification 25","working_status":"working_status 25","course_name":"course_name 25","mentor":"mentor 5","placed_status":"no","id":"25"},
+{"firstname":"firstname 26","lastname":"lastname 26","date_of_birth":1651021993,"address":"address 26","email_id":"email_id 26","phone_no":4,"qualification":"qualification 26","working_status":"working_status 26","course_name":"course_name 26","mentor":"mentor 6","placed_status":"no","id":"26"},
+{"firstname":"firstname 27","lastname":"lastname 27","date_of_birth":1651021933,"address":"address 27","email_id":"email_id 27","phone_no":70,"qualification":"qualification 27","working_status":"working_status 27","course_name":"course_name 27","mentor":"mentor 7","placed_status":"no","id":"27"},
+{"firstname":"firstname 28","lastname":"lastname 28","date_of_birth":1651021873,"address":"address 28","email_id":"email_id 28","phone_no":87,"qualification":"qualification 28","working_status":"working_status 28","course_name":"course_name 28","mentor":"mentor 8","placed_status":"yes","id":"28"},
+{"firstname":"firstname 29","lastname":"lastname 29","date_of_birth":1651021813,"address":"address 29","email_id":"email_id 29","phone_no":47,"qualification":"qualification 29","working_status":"working_status 29","course_name":"course_name 29","mentor":"mentor 9","placed_status":"no","id":"29"},
+{"firstname":"firstname 30","lastname":"lastname 30","date_of_birth":1651021753,"address":"address 30","email_id":"email_id 30","phone_no":11,"qualification":"qualification 30","working_status":"working_status 30","course_name":"course_name 30","mentor":"mentor 10","placed_status":"no","id":"30"},
+{"firstname":"firstname 31","lastname":"lastname 31","date_of_birth":1651021693,"address":"address 31","email_id":"email_id 31","phone_no":39,"qualification":"qualification 31","working_status":"working_status 31","course_name":"course_name 31","mentor":"mentor 1","placed_status":"yes","id":"31"},
+{"firstname":"firstname 32","lastname":"lastname 32","date_of_birth":1651021633,"address":"address 32","email_id":"email_id 32","phone_no":69,"qualification":"qualification 32","working_status":"working_status 32","course_name":"course_name 32","mentor":"mentor 2","placed_status":"yes","id":"32"},
+{"firstname":"firstname 33","lastname":"lastname 33","date_of_birth":1651021573,"address":"address 33","email_id":"email_id 33","phone_no":74,"qualification":"qualification 33","working_status":"working_status 33","course_name":"course_name 33","mentor":"mentor 3","placed_status":"no","id":"33"},
+{"firstname":"firstname 34","lastname":"lastname 34","date_of_birth":1651021513,"address":"address 34","email_id":"email_id 34","phone_no":23,"qualification":"qualification 34","working_status":"working_status 34","course_name":"course_name 34","mentor":"mentor 4","placed_status":"no","id":"34"},
+{"firstname":"firstname 35","lastname":"lastname 35","date_of_birth":1651021453,"address":"address 35","email_id":"email_id 35","phone_no":41,"qualification":"qualification 35","working_status":"working_status 35","course_name":"course_name 35","mentor":"mentor 5","placed_status":"no","id":"35"},
+{"firstname":"firstname 36","lastname":"lastname 36","date_of_birth":1651021393,"address":"address 36","email_id":"email_id 36","phone_no":34,"qualification":"qualification 36","working_status":"working_status 36","course_name":"course_name 36","mentor":"mentor 6","placed_status":"no","id":"36"},
+{"firstname":"firstname 37","lastname":"lastname 37","date_of_birth":1651021333,"address":"address 37","email_id":"email_id 37","phone_no":38,"qualification":"qualification 37","working_status":"working_status 37","course_name":"course_name 37","mentor":"mentor 7","placed_status":"yes","id":"37"},
+{"firstname":"firstname 38","lastname":"lastname 38","date_of_birth":1651021273,"address":"address 38","email_id":"email_id 38","phone_no":92,"qualification":"qualification 38","working_status":"working_status 38","course_name":"course_name 38","mentor":"mentor 8","placed_status":"no","id":"38"},
+{"firstname":"firstname 39","lastname":"lastname 39","date_of_birth":1651021213,"address":"address 39","email_id":"email_id 39","phone_no":63,"qualification":"qualification 39","working_status":"working_status 39","course_name":"course_name 39","mentor":"mentor 9","placed_status":"yes","id":"39"},
+{"firstname":"firstname 40","lastname":"lastname 40","date_of_birth":1651021153,"address":"address 40","email_id":"email_id 40","phone_no":64,"qualification":"qualification 40","working_status":"working_status 40","course_name":"course_name 40","mentor":"mentor 10","placed_status":"no,"id":"40"},
+{"firstname":"firstname 41","lastname":"lastname 41","date_of_birth":1651021093,"address":"address 41","email_id":"email_id 41","phone_no":96,"qualification":"qualification 41","working_status":"working_status 41","course_name":"course_name 41","mentor":"mentor 1","placed_status":"yes","id":"41"},
+{"firstname":"firstname 42","lastname":"lastname 42","date_of_birth":1651021033,"address":"address 42","email_id":"email_id 42","phone_no":73,"qualification":"qualification 42","working_status":"working_status 42","course_name":"course_name 42","mentor":"mentor 2","placed_status":"no","id":"42"},
+{"firstname":"firstname 43","lastname":"lastname 43","date_of_birth":1651020973,"address":"address 43","email_id":"email_id 43","phone_no":10,"qualification":"qualification 43","working_status":"working_status 43","course_name":"course_name 43","mentor":"mentor 3","placed_status":"no","id":"43"},
+{"firstname":"firstname 44","lastname":"lastname 44","date_of_birth":1651020913,"address":"address 44","email_id":"email_id 44","phone_no":37,"qualification":"qualification 44","working_status":"working_status 44","course_name":"course_name 44","mentor":"mentor 4","placed_status":"no","id":"44"},
+{"firstname":"firstname 45","lastname":"lastname 45","date_of_birth":1651020853,"address":"address 45","email_id":"email_id 45","phone_no":70,"qualification":"qualification 45","working_status":"working_status 45","course_name":"course_name 45","mentor":"mentor 5","placed_status":"no","id":"45"},
+{"firstname":"firstname 46","lastname":"lastname 46","date_of_birth":1651020793,"address":"address 46","email_id":"email_id 46","phone_no":49,"qualification":"qualification 46","working_status":"working_status 46","course_name":"course_name 46","mentor":"mentor 6","placed_status":"yes","id":"46"},
+{"firstname":"firstname 47","lastname":"lastname 47","date_of_birth":1651020733,"address":"address 47","email_id":"email_id 47","phone_no":65,"qualification":"qualification 47","working_status":"working_status 47","course_name":"course_name 47","mentor":"mentor 7","placed_status":"no","id":"47"},
+{"firstname":"firstname 48","lastname":"lastname 48","date_of_birth":1651020673,"address":"address 48","email_id":"email_id 48","phone_no":85,"qualification":"qualification 48","working_status":"working_status 48","course_name":"course_name 48","mentor":"mentor 8","placed_status":"no","id":"48"},
+{"firstname":"firstname 49","lastname":"lastname 49","date_of_birth":1651020613,"address":"address 49","email_id":"email_id 49","phone_no":29,"qualification":"qualification 49","working_status":"working_status 49","course_name":"course_name 49","mentor":"mentor 9","placed_status":"no","id":"49"},
+{"firstname":"firstname 50","lastname":"lastname 50","date_of_birth":1651020553,"address":"address 50","email_id":"email_id 50","phone_no":25,"qualification":"qualification 50","working_status":"working_status 50","course_name":"course_name 50","mentor":"mentor 10","placed_status":"no","id":"50"}]
+
+codekata:
+
+[{
+"user_id":"1",
+"level":"absolute beginner",
+"total_no_of_problems":30,
+"no_of_problems_solved":30
+},
+{
+"user_id":"1",
+"level":"Array",
+"total_no_of_problems":300,
+"no_of_problems_solved":150
+},
+{
+"user_id":"2",
+"level":"Array",
+"total_no_of_problems":300,
+"no_of_problems_solved":180
+},
+{
+"user_id":"3",
+"level":"String",
+"total_no_of_problems":200,
+"no_of_problems_solved":80
+},
+{
+"user_id":"4",
+"level":"String",
+"total_no_of_problems":200,
+"no_of_problems_solved":170
+},
+{
+"user_id":"5",
+"level":"Array",
+"total_no_of_problems":300,
+"no_of_problems_solved":270
+},
+{
+"user_id":"1",
+"level":"String",
+"total_no_of_problems":200
+"no_of_problems_solved":170
+}]
+
+attendance:
+
+[{
+"user_id":"1",
+"topic_id":"1",
+"status":"present",
+"date":"2020-10-16"
+},
+{
+"user_id":"2",
+"topic_id":"2",
+"status":"present",
+"date":"2020-12-03"
+},
+{
+"user_id":"3",
+"topic_id":"1",
+"status":"absent",
+"date":"2020-10-18"
+},
+{
+"user_id":"4",
+"topic_id":"1",
+"status":"present",
+"date":"2020-11-18"
+},
+{
+"user_id":"2",
+"topic_id":"1",
+"status":"absent",
+"date":"2020-11-24"
+},
+{
+"user_id":"5",
+"topic_id":"2",
+"status":"present",
+"date":"2020-10-28"
+}]
+
+topics:
+
+[{
+"topic_id":"1",
+"topic_name":"Javascript",
+"topics_taken":"Sivaranjini",
+"month":"november"
+},
+{
+"topic_id":"2",
+"topic_name":"HTML",
+"topics_taken":"Kumar",
+"month":"october"
+},
+{
+"topic_id":"3",
+"topic_name":"CSS",
+"topics_taken":"Deepika",
+"month":"january"
+},
+{
+"topic_id":"4",
+"topic_name":"Reactjs",
+"topics_taken":"Sivaranjini",
+"month":"february"
+},
+{
+"topic_id":"5",
+"topic_name":"MySQL",
+"topics_taken":"Gopinath",
+"month":"march"
+},
+{
+"topic_id":"6",
+"topic_name":"MongoDB",
+"topics_taken":"Sivaranjini",
+"month":"april"
+}]
+
+
+tasks:
+[{
+"user_id":"1",
+"task_id":"1",
+"topic_id":"1",
+"task_name":"functions and array in js",
+"date":"2020-11-05",
+"submitted_status":"yes"},
+{
+"user_id":"2",
+"task_id":"1",
+"topic_id":"1",
+"task_name":"functions and array in js",
+"date":"2020-11-15",
+"submitted_status":"yes"},
+{
+"user_id":"2",
+"task_id":"2",
+"topic_id":"2",
+"task_name":"html design page",
+"date":"2020-10-18",
+"submitted_status":"yes"},
+{
+"user_id":"3",
+"task_id":"2",
+"topic_id":"2",
+"task_name":"html design page",
+"date":"2020-10-25",
+"submitted_status":"no"},
+{
+"user_id":"5",
+"task_id":"3",
+"topic_id":"3",
+"task_name":"Design page using html and css",
+"date":"2020-12-15",
+"submitted_status":"yes"},
+{
+"user_id":"4",
+"task_id":"2",
+"topic_id":"2",
+"task_name":"html design page",
+"date":"2020-10-18",
+"submitted_status":"no"},
+{
+"user_id":"2",
+"task_id":"4",
+"topic_id":"4",
+"task_name":"crud application using formik reactjs",
+"date":"2020-12-28",
+"submitted_status":"yes"}]
+
+
+company_drives:
+[{
+"company_id":"1",
+"company_name":"tcs",
+"date":"2020-11-15",
+"eligibility_criteria":"80%",
+"no_of_students_appeared":"25",
+"no_of_students_placed":"22",
+},
+{
+"company_id":"2",
+"company_name":"amazon",
+"date":"2020-10-18",
+"no_of_students_appeared":"32",
+"no_of_students_placed":"28",
+},
+{
+"company_id":"3",
+"company_name":"freshworks",
+"date":"2020-10-28",
+"no_of_students_appeared":"25",
+"no_of_students_placed":"23",
+},
+{"company_id":"4",
+"company_name":"codingmart",
+"date":"2020-11-29",
+"no_of_students_appeared":"35",
+"no_of_students_placed":"30",
+},
+{"company_id":"5",
+"company_name":"flipkart",
+"date":"2020-12-19",
+"no_of_students_appeared":"22",
+"no_of_students_placed":"21",
+}]
+
+mentors:
+[{
+"mentor_id":"1",
+"mentor_name":"mentor 1",
+"topics_taken":"Javascript,HTML&CSS",
+"no_of_mentees":"30"
+},
+{
+"mentor_id":"2",
+"mentor_name":"mentor 2",
+"topics_taken":"Python,Database",
+"no_of_mentees":"35"
+},
+{
+"mentor_id":"3",
+"mentor_name":"mentor 3",
+"topics_taken":"ReactJS",
+"no_of_mentees":"30"
+},
+{
+"mentor_id":"4",
+"mentor_name":"mentor 4",
+"topics_taken":"Node JS",
+"no_of_mentees":"32"
+},
+{
+"mentor_id":"5",
+"mentor_name":"mentor 5",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+},
+{
+"mentor_id":"6",
+"mentor_name":"mentor 6",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+},
+{
+"mentor_id":"7",
+"mentor_name":"mentor 7",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+},
+{
+"mentor_id":"8",
+"mentor_name":"mentor 8",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+},
+{
+"mentor_id":"9",
+"mentor_name":"mentor 9",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+},
+{
+"mentor_id":"10",
+"mentor_name":"mentor 10",
+"topics_taken":"AWS",
+"no_of_mentees":"28"
+}]
